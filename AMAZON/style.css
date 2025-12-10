@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.shop{
+    display: flex;
+    background-color: antiquewhite;
+}
+.shop1{
+    height: 440px;
+    width: 23%;
+    background-color: white;
+    margin: 1%;
+}
